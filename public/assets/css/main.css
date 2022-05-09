@@ -1,0 +1,19 @@
+.banner{
+    position: relative;
+    background: linear-gradient(rgba(97, 66, 148, 0.774), rgba(0, 0, 0, 0.733)), url('../img/background_TR.jpg');
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-text {
+    background: transparent;
+    background-color: transparent;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    color: white;
+  }
